@@ -1,0 +1,7 @@
+zone 1:
+  name: u_davida
+  latitude: 50.226282
+  longitude: 19.058654
+  radius: 100
+  icon: mdi:home
+
